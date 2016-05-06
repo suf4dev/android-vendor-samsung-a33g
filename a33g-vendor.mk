@@ -19,4 +19,4 @@ PRODUCT_PACKAGES += \
     libHevcSwDecoder \
     TimeService
 
-$(call inherit-product, vendor/samsung/a33g/a3lte-vendor-blobs.mk)
+$(call inherit-product, vendor/samsung/a33g/a33g-vendor-blobs.mk)
